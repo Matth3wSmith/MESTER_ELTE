@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Suli\\Programozasi-alapok\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1391EC-3E34-47F6-AD0B-61A310A279E2}|szilveszter.csproj|g:\\suli\\programozasi-alapok\\mester_elte\\kezdo\\elemi_feladatok\\szilveszter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1391EC-3E34-47F6-AD0B-61A310A279E2}|szilveszter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Suli\\Programozasi-alapok\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Suli\\Programozasi-alapok\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC4AAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:39:35.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

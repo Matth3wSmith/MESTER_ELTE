@@ -1,0 +1,14 @@
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\bin\Debug\net8.0\szilveszter.exe
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\bin\Debug\net8.0\szilveszter.deps.json
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\bin\Debug\net8.0\szilveszter.runtimeconfig.json
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\bin\Debug\net8.0\szilveszter.dll
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\bin\Debug\net8.0\szilveszter.pdb
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\obj\Debug\net8.0\szilveszter.GeneratedMSBuildEditorConfig.editorconfig
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\obj\Debug\net8.0\szilveszter.AssemblyInfoInputs.cache
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\obj\Debug\net8.0\szilveszter.AssemblyInfo.cs
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\obj\Debug\net8.0\szilveszter.csproj.CoreCompileInputs.cache
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\obj\Debug\net8.0\szilveszter.dll
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\obj\Debug\net8.0\refint\szilveszter.dll
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\obj\Debug\net8.0\szilveszter.pdb
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\obj\Debug\net8.0\szilveszter.genruntimeconfig.cache
+G:\Suli\Programozasi-alapok\MESTER_ELTE\Kezdo\Elemi_feladatok\szilveszter\obj\Debug\net8.0\ref\szilveszter.dll
