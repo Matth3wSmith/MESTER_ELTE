@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tanev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9b2a64b1cd3d532093b1d4683727542b9b758d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8e302fdb497ea2d03ee90d67ab899bba353acc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("tanev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tanev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
