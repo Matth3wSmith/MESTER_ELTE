@@ -1,4 +1,7 @@
 ﻿using System.Net.WebSockets;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace tanev
 {
@@ -6,8 +9,8 @@ namespace tanev
     {
         static void Main(string[] args)
         {
-            int[] honap = [31,28,31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
-            string[] napok = [ "", "hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat", "vasárnap"];
+            int[] honap = new int[] { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
+            string[] napok = new string[] { "", "hétfő", "kedd", "szerda", "csütörtök", "péntek", "szombat", "vasárnap" };
 
             int ev = int.Parse(Console.ReadLine());
             //Szökőév ellenőrzés
@@ -22,14 +25,20 @@ namespace tanev
 
             //Tanév kezdés
             //Képlet az első hétfő kiszámítására: Hétfő = 1 + (7 - nap) % 7
-            szunetek.Add(ev+"."+"9."+ (elsejenap!=1 ? (1 + (7 - elsejenap) % 7):elsejenap));
+            szunetek.Add(ev+"."+"9."+ (elsejenap!=1 ? (2 + (7 - elsejenap) % 7):elsejenap));
             Console.WriteLine(szunetek[0]);
             //Őszi szünet
-            Console.WriteLine(String.Join(" ",osziSzunet(ev,honap,napok)));
+            var oszi = osziSzunet(ev,honap,napok);
+            Console.WriteLine(oszi[0]);
+            Console.WriteLine(oszi[1]);
             //Téli szünet
-            Console.WriteLine(String.Join(" ", teliSzunet(ev,honap,napok)));
+            var teli = teliSzunet(ev,honap,napok);
+            Console.WriteLine(teli[0]);
+            Console.WriteLine(teli[1]);
             //húsvéti szünet    
-            Console.WriteLine(String.Join(" ", husvetiSzunet(ev,husvetvasarnap[0],husvetvasarnap[1], honap, napok)));
+            var husveti = husvetiSzunet(ev, husvetvasarnap[0], husvetvasarnap[1], honap, napok);
+            Console.WriteLine(husveti[0]);
+            Console.WriteLine(husveti[1]);
 
             //Utolsó tanítási nap
             int napokszama = honap.Sum() - honap[5] - honap[6] - honap[7] + 1;
@@ -44,7 +53,7 @@ namespace tanev
         {
             int utolsoTanNap = vasarnap <= 9 ? honap[2]+vasarnap - 7 - 2 : vasarnap-7-2;
             int elsoTanNap = vasarnap + 2;
-            return [new DateTime(ev+1, vasarnap<=9 ? 3:4, utolsoTanNap).ToString("yyyy.M.d."), new DateTime(ev + 1, 4, elsoTanNap).ToString("yyyy.M.d.")];
+            return new string[] { new DateTime(ev + 1, vasarnap <= 9 ? 3 : 4, utolsoTanNap).ToString("yyyy.M.d."), new DateTime(ev + 1, 4, elsoTanNap).ToString("yyyy.M.d.") };
 
         }
         static string[] teliSzunet(int ev, int[] honap, string[] nappok)
@@ -57,7 +66,7 @@ namespace tanev
             int utolsoTanNap = 24 - (nap24 + 2);
             int elsoTanNap = nap1 == 1 ? nap1:  1 + nap1 + 1;
 
-            return [new DateTime(ev, 12, utolsoTanNap).ToString("yyyy.M.d."), new DateTime(ev+1, 1, elsoTanNap).ToString("yyyy.M.d.")];
+            return new string[] { new DateTime(ev, 12, utolsoTanNap).ToString("yyyy.M.d."), new DateTime(ev + 1, 1, elsoTanNap).ToString("yyyy.M.d.") };
 
 
         }
@@ -75,7 +84,7 @@ namespace tanev
             int utolsoTanNap = 23-(nap23 + 2);
             int elsoTanNap = 23+ (7 - nap23 + 1);
 
-            return [ new DateTime(ev, 10, utolsoTanNap).ToString("yyyy.M.d."), new DateTime(ev, 10, elsoTanNap).ToString("yyyy.M.d.")] ;
+            return new string[] { new DateTime(ev, 10, utolsoTanNap).ToString("yyyy.M.d."), new DateTime(ev, 10, elsoTanNap).ToString("yyyy.M.d.") } ;
             
         }
 
