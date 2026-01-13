@@ -1,0 +1,15 @@
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\bin\Debug\net8.0\arab1.exe
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\bin\Debug\net8.0\arab1.deps.json
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\bin\Debug\net8.0\arab1.runtimeconfig.json
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\bin\Debug\net8.0\arab1.dll
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\bin\Debug\net8.0\arab1.pdb
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\arab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\arab1.AssemblyInfoInputs.cache
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\arab1.AssemblyInfo.cs
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\arab1.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\arab1.sourcelink.json
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\arab1.dll
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\refint\arab1.dll
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\arab1.pdb
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\arab1.genruntimeconfig.cache
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\arab1\obj\Debug\net8.0\ref\arab1.dll
