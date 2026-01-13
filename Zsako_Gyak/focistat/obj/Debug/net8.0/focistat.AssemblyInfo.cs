@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("focistat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b7d96e8dbbfa41f872857033936e64a1bc48d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a9fcff392363bde6d3cc79f6d1dd39e5c930ba0")]
 [assembly: System.Reflection.AssemblyProductAttribute("focistat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("focistat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
