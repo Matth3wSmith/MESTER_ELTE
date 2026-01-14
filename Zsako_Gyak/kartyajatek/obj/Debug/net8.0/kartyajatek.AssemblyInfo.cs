@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kartyajatek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7912f61e8ef949601d792a7fd9c8cf69c07cc5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+396a548d49afef787e8170bc1f66eb023ac66352")]
 [assembly: System.Reflection.AssemblyProductAttribute("kartyajatek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kartyajatek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\bin\Debug\net8.0\kartyajatek.exe
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\bin\Debug\net8.0\kartyajatek.deps.json
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\bin\Debug\net8.0\kartyajatek.runtimeconfig.json
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\bin\Debug\net8.0\kartyajatek.dll
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\bin\Debug\net8.0\kartyajatek.pdb
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\kartyajatek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\kartyajatek.AssemblyInfoInputs.cache
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\kartyajatek.AssemblyInfo.cs
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\kartyajatek.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\kartyajatek.sourcelink.json
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\kartyajatek.dll
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\refint\kartyajatek.dll
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\kartyajatek.pdb
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\kartyajatek.genruntimeconfig.cache
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\kartyajatek\obj\Debug\net8.0\ref\kartyajatek.dll
