@@ -30,9 +30,13 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kovacs.mate.22\\source\\repos\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kovacs.mate.22\\source\\repos\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "C:\\Users\\kovacs.mate.22\\source\\repos\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAABQAAAAAAAAAAAAYwCEAAAAPAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wDUAAAAAAAAAAAAAAA==",
+>>>>>>> 82515e642960f84114b931a21b658648e6aad170
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-11T20:39:35.903Z",
               "EditorCaption": ""

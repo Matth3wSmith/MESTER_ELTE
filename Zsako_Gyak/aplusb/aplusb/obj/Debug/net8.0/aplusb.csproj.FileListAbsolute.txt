@@ -1,0 +1,15 @@
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\bin\Debug\net8.0\aplusb.exe
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\bin\Debug\net8.0\aplusb.deps.json
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\bin\Debug\net8.0\aplusb.runtimeconfig.json
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\bin\Debug\net8.0\aplusb.dll
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\bin\Debug\net8.0\aplusb.pdb
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\aplusb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\aplusb.AssemblyInfoInputs.cache
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\aplusb.AssemblyInfo.cs
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\aplusb.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\aplusb.sourcelink.json
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\aplusb.dll
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\refint\aplusb.dll
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\aplusb.pdb
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\aplusb.genruntimeconfig.cache
+C:\Users\kovacs.mate.22\source\repos\MESTER_ELTE\Zsako_Gyak\aplusb\aplusb\obj\Debug\net8.0\ref\aplusb.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("szilveszter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a49ab069b58174d38512c091fd9622d05267f93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07011001e772c64cc8bacb7c6917492d1e255ef8")]
 [assembly: System.Reflection.AssemblyProductAttribute("szilveszter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("szilveszter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,5 +4,15 @@
   "success": true,
   "projectFilePath": "C:\\Users\\kovacs.mate.22\\source\\repos\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\szilveszter.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\kovacs.mate.22\\source\\repos\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\kovacs.mate.22\\source\\repos\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\szilveszter.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\kovacs.mate.22\\source\\repos\\MESTER_ELTE\\Kezdo\\Elemi_feladatok\\szilveszter\\szilveszter.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
